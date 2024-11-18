@@ -1,4 +1,4 @@
-#CS678 - Assignment 3: Reproducibility Study
+# CS678 - Assignment 3: Reproducibility Study
 
 This repository contains the code for the reproducibility study of the paper "GEMINI: Controlling The Sentence-Level Summary Style in Abstractive Text Summarization", as part of the CS678 - Advanced Natural Language Processing course.
 
